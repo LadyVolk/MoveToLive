@@ -1,0 +1,22 @@
+﻿  Level.cpp
+f:\documents\finalproject\cmp105app\level.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\documents\finalproject\cmp105app\level.cpp(181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(289): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\documents\finalproject\cmp105app\level.cpp(290): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\documents\finalproject\cmp105app\level.cpp(350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(358): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(362): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(415): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(435): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(434): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\documents\finalproject\cmp105app\level.cpp(306): warning C4715: 'Level::randomPosition': not all control paths return a value
+  CMP105App.vcxproj -> F:\Documents\FInalProject\x64\Debug\MoveToLive.exe
